@@ -1,11 +1,13 @@
 
-<h1 align=center>Olá! Bem-vindo ao meu GitHub :octocat:</h1>
+<h3 align=center>Olá! Bem-vindo ao meu GitHub :octocat:</h3>
 
-<span>👋 Prazer, meu nome é Gabriel!</span>
-<span>👨‍💻 Procuro ganhar experiências na área de programação.</span>
-<span>🔎 Como toda experiência se ganha com desafios e trabalho, procuro trabalho e desafios
-para que eu possa me aprimorar.</span>
-<span>🖊️ Atualmente estou estudando Desenvolvimento Web  na <a href="https://www.betrybe.com/" target="blank">Trybe</a>.</span>
+<div>👋 Prazer, meu nome é Gabriel!</div>
+<div>👨‍💻 Procuro ganhar experiências na área de programação.</div>
+<div>🔎 Como toda experiência se ganha com desafios e trabalho, procuro trabalho e desafios
+para que eu possa me aprimorar.</div>
+<div>🖊️ Atualmente estou estudando Desenvolvimento Web  na <a href="https://www.betrybe.com/" target="blank">Trybe</a>.</div>
+
+##
 
 <div align="center">
   <a href="https://github.com/gapneves">
