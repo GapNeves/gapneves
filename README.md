@@ -1,8 +1,6 @@
 
 <h3 align=center>Olá! Bem-vindo ao meu GitHub :octocat:</h3>
 
-##
-
 <div>👋 Prazer, meu nome é Gabriel!</div>
 <div>👨‍💻 Procuro ganhar experiências na área de programação.</div>
 <div>🔎 Como toda experiência se ganha com desafios e trabalho, procuro trabalho e desafios
