@@ -1,5 +1,5 @@
 
-<h3 align=center>Olá! Bem-vindo ao meu GitHub :octocat:</h3>
+<h2 align=center>Olá! Bem-vindo ao meu GitHub :octocat:</h2>
 
 <div>👋 Prazer, meu nome é Gabriel!</div>
 <div>👨‍💻 Procuro ganhar experiências na área de programação.</div>
