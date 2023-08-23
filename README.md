@@ -8,7 +8,7 @@
 <div>👋 Prazer, meu nome é Gabriel!</div>
 <div>👨‍💻 Procuro ganhar experiências na área de programação.</div>
 <div>🔎 Como toda experiência se ganha com desafios e trabalho,
-  estou em busca de oportunidades de emprego e desafios que me permitam desenvolver continuamente..</div>
+  estou em busca de oportunidades de emprego e desafios que me permitam desenvolver continuamente.</div>
 <div>🖊️ Atualmente estou estudando Desenvolvimento Web  na <a href="https://www.betrybe.com/" target="blank">Trybe</a>.</div>
 <br>
 
