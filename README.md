@@ -1,5 +1,10 @@
 
-<h2 align=center>Olá! Bem-vindo ao meu GitHub :octocat:</h2>
+<h2 align=center>
+  <img src="./Imgs/white-logo.png"/>
+  <span>Gabriel Pereira</span>
+</h2>
+
+<img align="right" height="400em" length="50em" src="./Imgs/my-octocat.png"/>
 
 <div>👋 Prazer, meu nome é Gabriel!</div>
 <div>👨‍💻 Procuro ganhar experiências na área de programação.</div>
@@ -8,14 +13,13 @@ para que eu possa me aprimorar.</div>
 <div>🖊️ Atualmente estou estudando Desenvolvimento Web  na <a href="https://www.betrybe.com/" target="blank">Trybe</a>.</div>
 <br>
 
-<div align="center">
+<div align=center > 
   <a href="https://github.com/gapneves">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gapneves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapneves&layout=compact&langs_count=7&theme=dark"/>
-  <img height="250em" length="50em" src="./Imgs/my-octocat.png"/>
 </div>
   
-<div style="display: inline_block" align=center><br>
+<div style="display: inline_block" align="left"><br>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
