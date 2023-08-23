@@ -1,7 +1,6 @@
 
 <h2 align=center>
-  <img src="./Imgs/white-logo.png"/>
-  <span>Gabriel Pereira</span>
+  <span>{g}Gabriel Pereira</span>
 </h2>
 
 <img align="right" height="400em" length="50em" src="./Imgs/my-octocat.png"/>
