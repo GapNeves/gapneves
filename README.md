@@ -1,9 +1,10 @@
+<div>
+<img align="center" alt="Header" src="/Imgs/technology.jpeg"/>
+</div>
 
-<h2 align=center>
-  <span>{g}Gabriel Pereira</span>
-</h2>
+##
 
-<img align="right" height="400em" length="50em" src="./Imgs/my-octocat.png"/>
+<img align="right" height="150em" length="50em" src="./Imgs/my-octocat.png"/>
 
 <div>👋 Prazer, meu nome é Gabriel!</div>
 <div>👨‍💻 Procuro ganhar experiências na área de programação.</div>
@@ -12,15 +13,19 @@
 <div>🖊️ Atualmente estou estudando Desenvolvimento Full Stack  na <a href="https://www.betrybe.com/" target="blank">Trybe</a>.</div>
 <br>
 
-<div align=center > 
-  <a href="https://github.com/gapneves">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapneves&layout=donut&langs_count=7&theme=dark"/>
+##
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gapneves&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gapneves&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gapneves&theme=github_dark"/>
 </div>
 
 ##
 
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 <div style="display: inline_block" align="left"><br>
-  <h3 align="center">Habilidades</h3>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -44,20 +49,8 @@
 ##
   
 <div align="center">
-  <h3>Conecte-se comigo</h3>
   <a href="https://www.dio.me/users/gabrielzim_pn" target="blank"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge" target="_blank"></a>
   <a href="https://instagram.com/_pereiiraa_" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriel.neves84@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielneves-dev/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<!-- ## -->
-
-<!-- <div align="center">
-  <h3>Meus Principais Desafios de Projeto DIO</h3>
-</div>
-  [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-  [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps) -->
- 
-<!-- ![Snake animation](https://github.com/gapneves/gapneves/blob/output/github-contribution-grid-snake.svg) -->
- 
 </div>
