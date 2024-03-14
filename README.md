@@ -1,5 +1,5 @@
-<div>
-<img align="center" alt="Header" src="/Imgs/technology.jpeg"/>
+<div align="center">
+<img alt="Header" src="/Imgs/technology.jpeg"/>
 </div>
 
 ##
