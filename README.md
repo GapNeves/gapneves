@@ -4,28 +4,32 @@
 
 ##
 
-<img align="right" height="150em" length="50em" src="./Imgs/my-octocat.png"/>
+<p align="center">
+  <img height="200em" src="./Imgs/my-octocat.png" alt="Octocat">
+</p>
 
-<div>👋 Prazer, meu nome é Gabriel!</div>
-<div>👨‍💻 Procuro ganhar experiências na área de programação.</div>
-<div>🔎 Como toda experiência se ganha com desafios e trabalho,
-  estou em busca de oportunidades de emprego e desafios que me permitam desenvolver continuamente.</div>
-<div>🖊️ Atualmente estou estudando Desenvolvimento Full Stack  na <a href="https://www.betrybe.com/" target="blank">Trybe</a>.</div>
-<br>
+<p align="center">
+  👋 Hi there! I'm Gabriel, a Full Stack Developer at <a href="https://regexsolutions.com.br/" target="blank">Regex Solutions</a>,<br>
+  working with Angular, TypeScript, Node.js, Sequelize,<br>
+  and PostgreSQL to build web solutions for e-commerce and CRM platforms.
+</p>
+
 
 ##
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gapneves&theme=github_dark"/>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gapneves&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gapneves&theme=github_dark"/>
+<div align="center">
+  <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gapneves&theme=github_dark"/>
+  <br>
+  <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gapneves&theme=github_dark"/>
+  <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gapneves&theme=github_dark"/>
 </div>
+
 
 ##
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
-<div style="display: inline_block" align="left"><br>
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Languages ​​and tools:
+<div style="display: inline_block" align="center"><br>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
